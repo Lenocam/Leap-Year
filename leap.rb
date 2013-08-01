@@ -17,5 +17,3 @@ while year <= ending
 
 	year = year + 1
 end
-
-
